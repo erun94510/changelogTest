@@ -7,7 +7,9 @@ public struct ContentView: View {
 		ScrollView {
 			ForEach((0...15), id: \.self) { index in
 				Text("\(index)")
+		NavigationStack {
 			}
+			.navigationTitle("CHANGELOGG.md")
 		}
 	}
 }
