@@ -1,0 +1,116 @@
+# ==========================================
+# MARK: - Tuist
+# ==========================================
+**/.build/
+**/.swiftpm/
+**/Derived/
+**/Tuist/GeneratedProject/
+**/Tuist/Cache/
+**/InfoPlists/
+
+# ==========================================
+# MARK: - Xcode
+# ==========================================
+*.xcworkspace
+*.xcodeproj/project.xcworkspace/
+*.xcodeproj/xcuserdata/
+*.xcworkspace/xcuserdata/
+*.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings
+*.xcuserstate
+*.xccheckout
+*.moved-aside
+*.xcscmblueprint
+*.xcresult
+*.xcodeproj/xcshareddata/WorkspaceSettings.xcsettings
+
+# ==========================================
+# MARK: - Build Artifacts
+# ==========================================
+build/
+DerivedData/
+*.hmap
+*.ipa
+*.dSYM
+*.app.dSYM.zip
+*.bcsymbolmap
+*.xcarchive
+
+# ==========================================
+# MARK: - Swift Package Manager
+# ==========================================
+Packages/
+Package.pins
+Package.resolved
+.swiftpm/xcode
+.swiftpm/build
+
+# ==========================================
+# MARK: - CocoaPods (if used)
+Pods/
+
+# ==========================================
+# MARK: - Carthage (if used)
+Carthage/
+Carthage/Build/
+
+# ==========================================
+# MARK: - Swift / Playground / IDE
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+*.playground
+*.playgroundbook
+*.xcplayground
+*.xctemplate
+
+# ==========================================
+# MARK: - Fastlane
+fastlane/report.xml
+fastlane/screenshots/
+fastlane/test_output/
+fastlane/Preview.html
+
+# ==========================================
+# MARK: - Firebase / Crashlytics
+firebase-debug.log
+.crashlytics/
+fabric-builds/
+
+# ==========================================
+# MARK: - macOS 시스템
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+.fseventsd
+.metadata_never_index
+.metadata_never_index_unless_rootfs
+
+# ==========================================
+# MARK: - Preview / SwiftUI
+**/Preview Content/
+**/.preview-thumbnails/
+
+# ==========================================
+# MARK: - Simulator / Runtime
+*.simruntime
+
+# ==========================================
+# MARK: - User Defaults / Dev Junk
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xcuserdatad
+*.user
+*.orig
+*.rej
+*.tmp
+*.bak
+*.log
+*.out
+
