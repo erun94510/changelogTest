@@ -4,10 +4,11 @@ public struct ContentView: View {
 	public init() {}
 	
 	public var body: some View {
-		ScrollView {
-			ForEach((0...15), id: \.self) { index in
-				Text("\(index)")
 		NavigationStack {
+			List {
+				ForEach((0...15), id: \.self) { index in
+					Text("\(index)")
+				}
 			}
 			.navigationTitle("CHANGELOGG.md")
 		}
