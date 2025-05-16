@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/erun94510/changelogTest/compare/v1.1.0...v1.2.0) (2025-05-16)
+
+
+### Features
+
+* Alamofire 모듈을 추가 ([f099fd0](https://github.com/erun94510/changelogTest/commit/f099fd0432d510f2fcb3aa78724717889ec6a469))
+* ScrollView로 데이터 뷰 구현 ([b13ff00](https://github.com/erun94510/changelogTest/commit/b13ff00bb402f9e4b92afcd67ffa023cad99716f))
+
 ## [1.1.0](https://github.com/erun94510/changelogTest/compare/v1.0.0...v1.1.0) (2025-05-16)
 
 
