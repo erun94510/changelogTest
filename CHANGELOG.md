@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.3.1](https://github.com/erun94510/changelogTest/compare/v1.3.0...v1.3.1) (2025-05-16)
+
+
+### Bug Fixes
+
+* 파라미터를 멀티라인으로 수정 ([280b971](https://github.com/erun94510/changelogTest/commit/280b971e8a33f93d339f592626e95f499ae339cf))
+
 ## [1.3.0](https://github.com/erun94510/changelogTest/compare/v1.2.0...v1.3.0) (2025-05-16)
 
 
