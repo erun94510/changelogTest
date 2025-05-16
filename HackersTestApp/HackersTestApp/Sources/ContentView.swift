@@ -6,7 +6,10 @@ public struct ContentView: View {
 	public var body: some View {
 		NavigationStack {
 			List {
-				ForEach((0...15), id: \.self) { index in
+				ForEach(
+					(0...15),
+					id: \.self
+				) { index in
 					Text("\(index)")
 				}
 			}
