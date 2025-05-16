@@ -10,7 +10,7 @@ public struct ContentView: View {
 					Text("\(index)")
 				}
 			}
-			.navigationTitle("CHANGELOGG.md")
+			.navigationTitle("CHANGELOG.md")
 		}
 	}
 }
