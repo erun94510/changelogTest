@@ -18,7 +18,9 @@ let project = Project(
             ),
             sources: ["HackersTestApp/Sources/**"],
             resources: ["HackersTestApp/Resources/**"],
-            dependencies: []
+            dependencies: [
+							.external(name: "Alamofire", condition: .none)
+						]
         ),
         .target(
             name: "HackersTestAppTests",
