@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.3.0](https://github.com/erun94510/changelogTest/compare/v1.2.0...v1.3.0) (2025-05-16)
+
+
+### Features
+
+* 네비게이션 타이틀 추가 ([16d9713](https://github.com/erun94510/changelogTest/commit/16d97131e98836d06d2306c468e34a2fdfed265d))
+* 스크롤 뷰 리스트로 변경 ([c785204](https://github.com/erun94510/changelogTest/commit/c7852045bb1a1301ed523c7cef6d60aa7cc4cd87))
+
 ## [1.2.0](https://github.com/erun94510/changelogTest/compare/v1.1.0...v1.2.0) (2025-05-16)
 
 
